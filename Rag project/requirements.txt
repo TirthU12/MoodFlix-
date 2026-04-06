@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+langchain-groq
+pymongo
+fastapi
+uvicorn
+requests
+json-repair
